@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📊 GitHub Stats
-![Hugo Sousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugaos&show_icons=true&theme=dracula)
-
-## 🚀 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugaos&layout=compact&theme=dracula)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hugaos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&hide_rank=false" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugaos&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="180em"/>
+</div>
