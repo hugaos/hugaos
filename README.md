@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 GitHub Stats
+![Hugo Sousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugaos&show_icons=true&theme=dracula)
+
+## 🚀 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugaos&layout=compact&theme=dracula)
