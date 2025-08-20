@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://hugaos.vercel.app/api?username=hugaos&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&hide_rank=false" height="180em"/>
-  <img src="https://hugaos.vercel.app/api/top-langs/?username=hugaos&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=60" height="180em"/>
-</div>
+<a href="https://github.com/hugaos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugaos&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&hide_rank=false" />
+</a>
+<a href="https://github.com/hugaos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugaos&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=60" />
+</a>
